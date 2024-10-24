@@ -1,0 +1,56 @@
+{
+  "languages": {
+    "en": [
+      {
+        "number": 1,
+        "unlocked": true,
+        "cleared": false,
+        "description": "First challenge",
+        "letters": [
+      { "letter": "T", "position": { "x": -3, "y": -3.5 } },
+      { "letter": "E", "position": { "x": -2, "y": -3.5 } },
+      { "letter": "T", "position": { "x": -1, "y": -3.5 } },
+      { "letter": "R", "position": { "x": 0, "y": -3.5 } },
+      { "letter": "I", "position": { "x": 1, "y": -3.5 } } ,
+      { "letter": "S", "position": { "x": 2, "y": -3.5 } }
+    ]
+      },
+      {
+        "number": 2,
+        "unlocked": false,
+        "cleared": false,
+        "description": "Second challenge",
+        "letters": [
+          { "letter": "C", "position": { "x": 2, "y": 2 } },
+          { "letter": "D", "position": { "x": 3, "y": 3 } }
+        ]
+      }
+    ],
+    "ru": [
+      {
+        "number": 1,
+        "unlocked": true,
+        "cleared": false,
+        "description": "Первое испытание",
+        "letters": [
+      { "letter": "Т", "position": { "x": -3, "y": -3.5 } },
+      { "letter": "Е", "position": { "x": -2, "y": -3.5 } },
+      { "letter": "Т", "position": { "x": -1, "y": -3.5 } },
+      { "letter": "Р", "position": { "x": 0, "y": -3.5 } },
+      { "letter": "И", "position": { "x": 1, "y": -3.5 } } ,
+      { "letter": "С", "position": { "x": 2, "y": -3.5 } }
+    ]
+      },
+      {
+        "number": 2,
+        "unlocked": false,
+        "cleared": false,
+        "description": "Второе испытание",
+        "letters": [
+          { "letter": "В", "position": { "x": 2, "y": 2 } },
+          { "letter": "Г", "position": { "x": 3, "y": 3 } }
+        ]
+      }
+    ]
+  }
+}
